@@ -1,0 +1,64 @@
+.container{
+    max-width: 1000px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    padding: 10px;
+}
+.profile{
+    width: 100px;
+    height: 150px;
+    border: 3px solid white;
+    border-radius: 40%;
+    float: left;
+}
+.name{
+    float: left;
+    padding: 25px;
+}
+h1,h2,h3,h4,h5{
+    color: red;
+}
+.contact{
+    float: right;
+    padding: 30px;
+}
+.contact a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.contact a:hover{
+    color: brown;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.left{
+    width: 40%;
+    float: left;
+}
+.right{
+    width: 60%;
+    float: left;
+    font-weight: bolder;
+}
+.bottom{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom a{
+   color: white;
+   text-decoration: none;
+   margin: 20px;
+}
+.bottom p{
+    color: white;
+    margin: 20px;
+ }
+ 
